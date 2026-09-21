@@ -1,16 +1,16 @@
-## Hi there 👋
+## Why Hello there 👋, I'm Rafael
+
+## About Me:
+🎓B.S. in Computer Systems & Technology - Lehman College, CUNY, Class of 2025 
+
+- 🔭 I’m currently working on building my career in technology and developing practical skills in IT, data, and cybersecurity.
+- 🌱 I’m currently learning about Linux and Bash, Python, JavaScript, and Networking Fundamentals.
+- 🤔 I’m looking for help to transition my education and professional experience into an entry-level technology position while continuing to develop my technical
+and problem-solving skills.
+- 📫 How to reach me: Ralphjc24@gmail.com 
+- 😄 Pronouns: He/Him
+- ⚡ Fun facts: Gamer🎮, Swimmer and Movie enthusiast.
 
 <!--
-**Ralphjc24/Ralphjc24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌Featured Projects: ADD LATER
+<--
